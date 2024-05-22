@@ -1,10 +1,17 @@
-// ---
-// ---
+---
+---
 
-@import 'main
-{%- if jekyll.environment == 'production' -%}
-  .bundle
-{%- endif -%}
-';
+@import 'main';
+
+// @import 'main
+// {%- if jekyll.environment == 'production' -%}
+//   .bundle
+// {%- endif -%}
+// ';
+
+
+// $tab-count: {{ site.tabs | size | plus: 1 }}; // plus 1 for home tab
+
+// @import "{{ site.theme }}";
 
 /* append your custom style below */

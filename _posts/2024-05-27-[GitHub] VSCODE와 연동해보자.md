@@ -1,5 +1,5 @@
 ---
-title: [GitHub] VSCODE와 연동해보자!
+title: GitHub VSCODE와 연동해보자
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories: [Tech, Github]
 tags:

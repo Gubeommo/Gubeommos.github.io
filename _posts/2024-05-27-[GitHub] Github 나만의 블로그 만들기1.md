@@ -60,7 +60,10 @@ README 에 나오는 내용은 크게 중요하지 않으며 대략 이런 구�
 
 앞으로 깃허브 블러그를 포스팅이나 수정을 할때 Git을 활용을 해야하는데 평소에 본인이 쓰던 툴을 사용하면된다.
 평소에 `VSCODE`를 쓰기에 `VSCODE`로 설명을 합니다~ 
->만약 VSCOCE가 첨이거나 git연동이 안되어있는 분들을 위해 추후에 정리후 블로그에 올릴 예정
+
+만약 VSCOCE가 첨이거나 git연동이 안되어있는 분들은
+
+[GitHub VSCODE와 연동해보자](https://gubeommo.github.io/posts/GitHub-VSCODE%EC%99%80-%EC%97%B0%EB%8F%99%ED%95%B4%EB%B3%B4%EC%9E%90/) 를 참조하자!
 
 ![image](https://github.com/Gubeommo/TIL/assets/86589565/d5471a3a-90fc-4d6d-88f8-40c645b96696)
 

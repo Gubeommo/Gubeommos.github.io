@@ -13,21 +13,21 @@ published: true
 
 >사실 이미 블로그는 만들어져 있지만 잘 정리된 블로그도 많았다. 하지만 그대로 따라 하다가 여러가지 에러 상황에 마주쳤고 정신없이 하루가 지나가 있었다. 이런 수모를 덜어내기 위해 기록,공유 할겸 다시 한번 정리해본다.
 
-## Jekyll 테마 
-
-우선 블로그에 적용할 `Jekyll`테마를 선택해야한다.
-
-* [https://jamstackthemes.dev/ssg/jekyll/](https://jamstackthemes.dev/ssg/jekyll/)
-* [https://jekyllthemes.io/](https://jekyllthemes.io/)
-* [https://jekyll-themes.com/](https://jekyll-themes.com/)
+## chirpy 테마 
 
 
-마음에 드는 지킬 테마를 다운로드 하자.(이번 포스팅은 아래에 있는 chirpy Theme로 진행)
+[Getting Start](https://chirpy.cotes.page/posts/getting-started/)을 살펴보면 
 
-[https://github.com/cotes2020/jekyll-theme-chirpy](https://github.com/cotes2020/jekyll-theme-chirpy)
+* `Chirpy Starter` : 업그레이드가 쉬우며 글쓰기에 집중 가능
+* `Github Fork` : 커스텀이 가능하지만 프로젝트에 기여할 생각이 없으면 추천하지 않음
+
+음.. 위에 방식에서 `Chirpy Starter`로 진행해보자
 
 
----
+
+
+[Chirpy Starter](https://github.com/cotes2020/chirpy-starter) 들어가서 **Code**를 클릭해주고 다운로드 해주자 
+
 
 ## Github Repository 만들기
 
@@ -53,8 +53,7 @@ published: true
 
 README 에 나오는 내용은 크게 중요하지 않으며 대략 이런 구성으로 생성 되면 성공한것이다!
 
-> 예전에 깃허브 부계정을 만든적이 있는게 그게 4년전인가보다...
-
+추후에 발생하는 오류 방지를 위해 **Setting -> Page -> Source에 Github Actions** 으로 바꿔주자
 ---
 ## Git Clone
 
@@ -99,6 +98,4 @@ README 에 나오는 내용은 크게 중요하지 않으며 대략 이런 구�
 
 이런 화면이 나왔다면 정상적으로 설치가 된것이다.
 
----
 
-이렇게 `Jekyll` 테마와 Git 레포토리지 생성 , 루비 설치가 끝나면 기초적인 베이스는 준비가 된것이다. 다음에는 직접적으로 테마를 적용해보자

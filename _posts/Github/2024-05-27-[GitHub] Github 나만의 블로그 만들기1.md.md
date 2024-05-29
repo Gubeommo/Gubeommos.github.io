@@ -13,6 +13,11 @@ published: true
 
 >사실 이미 블로그는 만들어져 있지만 잘 정리된 블로그도 많았다. 하지만 그대로 따라 하다가 여러가지 에러 상황에 마주쳤고 정신없이 하루가 지나가 있었다. 이런 수모를 덜어내기 위해 기록,공유 할겸 다시 한번 정리해본다.
 
+
+## 관련글
+* [Github 나만의 블로그 만들기(with chirpy)-1](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01/)
+  
+
 ## chirpy 테마 
 
 
@@ -27,6 +32,7 @@ published: true
 
 
 [Chirpy Starter](https://github.com/cotes2020/chirpy-starter) 들어가서 **Code**를 클릭해주고 다운로드 해주자 
+>Use this template를 해서 래포토리지를 바로 생성해도 무방하다. 만약 이방법시 다음 Github Repository 만들기 단계는 스킵하자
 
 
 ## Github Repository 만들기
@@ -54,6 +60,7 @@ published: true
 README 에 나오는 내용은 크게 중요하지 않으며 대략 이런 구성으로 생성 되면 성공한것이다!
 
 추후에 발생하는 오류 방지를 위해 **Setting -> Page -> Source에 Github Actions** 으로 바꿔주자
+
 ---
 ## Git Clone
 

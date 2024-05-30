@@ -1,5 +1,5 @@
 ---
-title: Github 나만의 블로그 만들기(with Jekyll)-1
+title: Github 나만의 블로그 만들기(with chirpy)-1
 date: YYYY-MM-DD HH:MM:SS +09:00
 categories: [Tech, Github]
 tags:

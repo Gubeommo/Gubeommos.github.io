@@ -24,14 +24,11 @@ refactor: true
 {% endif %}
 
 <!-- Get default posts -->
-
 {% assign default_beg = offset | minus: pinned.size %}
-
 {% if default_beg < 0 %}
   {% assign default_beg = 0 %}
 {% endif %}
-
-{% assign default_num = paginator.posts | size | minus: pinned_num %}
+{% assign default_num = default.size %}
 {% assign default_end = default_beg | plus: default_num | minus: 1 %}
 
 {% if default_num > 0 %}
@@ -88,7 +85,7 @@ refactor: true
                     {% for category in post.categories %}
                       {{ category }}
                       {%- unless forloop.last -%},{%- endunless -%}
-                    {% endfor %}a
+                    {% endfor %}
                   </span>
                 {% endif %}
               </div>

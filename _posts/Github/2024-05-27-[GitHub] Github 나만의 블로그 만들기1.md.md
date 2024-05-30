@@ -10,6 +10,7 @@ image : /assets/img/Git_Hub.png
 
 published: true
 hidden : false
+pin : false
 ---
 
 >사실 이미 블로그는 만들어져 있지만 잘 정리된 블로그도 많았다. 하지만 그대로 따라 하다가 여러가지 에러 상황에 마주쳤고 정신없이 하루가 지나가 있었다. 이런 수모를 덜어내기 위해 기록,공유 할겸 다시 한번 정리해본다.

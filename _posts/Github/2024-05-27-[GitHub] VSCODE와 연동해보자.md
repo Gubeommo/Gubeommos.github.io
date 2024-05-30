@@ -9,6 +9,7 @@ Github,Git,VSCODE
 image : /assets/img/Git_Hub.png
 
 published: true
+hidden : false
 ---
 
 

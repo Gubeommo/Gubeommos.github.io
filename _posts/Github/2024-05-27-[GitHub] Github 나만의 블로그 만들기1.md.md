@@ -9,6 +9,7 @@ Github,Git,블로그,Github page,chirpy
 image : /assets/img/Git_Hub.png
 
 published: true
+hidden : false
 ---
 
 >사실 이미 블로그는 만들어져 있지만 잘 정리된 블로그도 많았다. 하지만 그대로 따라 하다가 여러가지 에러 상황에 마주쳤고 정신없이 하루가 지나가 있었다. 이런 수모를 덜어내기 위해 기록,공유 할겸 다시 한번 정리해본다.
@@ -17,7 +18,7 @@ published: true
 ## 관련글
 * <span style='background-color: #F7DDBE'>[Github 나만의 블로그 만들기(with chirpy)-1](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01/)</span>
 * [Github 나만의 블로그 만들기(with chirpy)-2](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
-  
+* [Github 나만의 블로그 만들기(with chirpy)-3](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B03/)
 
 ## chirpy 테마 
 

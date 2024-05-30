@@ -8,12 +8,14 @@ Github,Git,블로그,Github page,chirpy
   ]
 image : /assets/img/Git_Hub.png
 pin: true
-published: false
+published: true
 ---
 
 ## 관련글
 * [Github 나만의 블로그 만들기(with chirpy)-1](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01/)
 * [Github 나만의 블로그 만들기(with chirpy)-2](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02/)
+
+---
 
 ## 블로그 포스팅 하기
 
@@ -64,8 +66,22 @@ published: true    # 게시 할건지
 > `root` 폴더는 _config.xml이 들어있는 폴더이다.
 {: .prompt-tip }
 
+### robots.txt 추가
 
-##  Google Search Console 등록
+```txt
+User-agent: *
+Allow: /
+
+Sitemap: 본인의깃허브 주소/sitemap.xml  
+```
+`root`폴더안에 파일 이름을 `robots.txt`라 지어주고 위에 형식으로 넣어주자 지금 만드는 블로그의 경우는 `Sitemap: https://kobommo7280.github.io/sitemap.xml ` 가 될것이다.
+
+추가후  `Commit` 과 `Push`를 해주자
+
+---
+
+
+### Google Search Console 등록
 
 [Goolge Search Console](https://search.google.com/search-console/welcome?hl=ko&utm_source=about-page)에 들어간 후
 
@@ -82,5 +98,29 @@ published: true    # 게시 할건지
 조금만 기다리다 보면
 
 
+![image](https://github.com/Gubeommo/TIL/assets/86589565/c526325b-4aa4-4b53-b104-5186ffa82f74)
 
 
+성공적으로 소유권을 확인 할 수 있다.
+추가적으로 **색인 생성-Sitmaps**에 들어가 
+
+![image](https://github.com/Gubeommo/TIL/assets/86589565/0d1139af-255c-4554-a6c4-7e2333c6b7db)
+
+`sitemap.xml`을 제출하면 상태에 **성공**이 뜰것이다.
+
+### Naver 검색엔진 등록
+
+[Naver Search Advisor](https://searchadvisor.naver.com/console/board) 에 들어간 후 
+
+![image](https://github.com/Gubeommo/TIL/assets/86589565/96a3942a-739a-414b-8eb9-371df3dd2406)
+
+똑같이 깃허브 주소를 입력해 줍니다.
+그후에 구글 과 똑같이 html를 다운한뒤 root 폴더에 넣고 `Commit` 과 `Push`후 좀 기다려 보면 성공할 것이다.
+
+![image](https://github.com/Gubeommo/TIL/assets/86589565/a684003e-a486-4aca-a6ae-613814aaec76)
+
+똑같이 Sitemap을 추가해주면 된다.
+
+---
+
+다음에는 깃 블로그를 Google 애널리틱스와 에드센스를 적용하는 방법에 대해 알아보겠다.

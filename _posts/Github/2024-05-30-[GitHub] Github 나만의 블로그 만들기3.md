@@ -7,7 +7,7 @@ tags:
 Github,Git,블로그,Github page,chirpy
   ]
 image : /assets/img/Git_Hub.png
-pin: true
+
 published: true
 ---
 

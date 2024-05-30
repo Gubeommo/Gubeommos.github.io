@@ -7,7 +7,7 @@ tags:
 Github,Git,VSCODE
   ]
 image : /assets/img/Git_Hub.png
-pin: false
+
 published: true
 ---
 

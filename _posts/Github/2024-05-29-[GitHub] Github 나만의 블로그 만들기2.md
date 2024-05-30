@@ -13,7 +13,7 @@ published: true
 
 ## 관련글
 * [Github 나만의 블로그 만들기(with chirpy)-1](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B01/)
-
+* <span style='background-color: #F7DDBE'>[Github 나만의 블로그 만들기(with chirpy)-2](https://gubeommo.github.io/posts/GitHub-Github-%EB%82%98%EB%A7%8C%EC%9D%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%A4%EA%B8%B02/)</span>
 
 
 ## Chripy Theme 적용
@@ -96,3 +96,7 @@ $ bundle lock --add-platform x86_64-linux
 ![image](https://github.com/Gubeommo/TIL/assets/86589565/7480f9a4-2ec6-40a0-83ee-425d544001e2)
 
 성공적으로 테마가 적용 된걸 확인 할 수 있다.
+
+---
+
+다음에는 블로그 포스팅 하는법 과 검색엔진 등록과 구글 애드센스 관련 글을 작성해보도록하겠다.

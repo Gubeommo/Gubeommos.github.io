@@ -51,7 +51,36 @@ published: true    # 게시 할건지
 
 위에있는 형식에 맞춰서 넣은후 그 아래에 내용을 작성하면 된다!.
 
-## 검색엔진 등록
+## 검색엔진 등록(구글,네이버)
 
 블로그를 포스팅을하고 여러 사람들이 검색을 하여 들어 올 수 있도록 검색엔진에 등록해보자 !
+
+### stiempa.xml 작성
+
+[sitemap 작성](https://github.com/Gubeommo/Gubeommo.github.io/blob/main/sitemap.html) 링크에 들어가 코드를 복사한후
+
+`root`폴더 아래에 `sitemap.xml` 생성후 넣어주고 `Commit` 과 `Push`를 해주자
+
+> `root` 폴더는 _config.xml이 들어있는 폴더이다.
+{: .prompt-tip }
+
+
+##  Google Search Console 등록
+
+[Goolge Search Console](https://search.google.com/search-console/welcome?hl=ko&utm_source=about-page)에 들어간 후
+
+![image](https://github.com/Gubeommo/TIL/assets/86589565/9ab44fa0-2185-4212-9784-c03170443b12)
+
+본인의 Github 블로그 주소를 넣으면 된다.
+
+![image](https://github.com/Gubeommo/TIL/assets/86589565/0203b8bf-2e70-4c74-a2b1-0faf60ace5ce)
+
+먼저 순서에 따라 `.html` 파일을 다운로드를 하고 난후  그 파일을 똑같이 `root`폴더안에 넣어줍니다.
+
+![image](https://github.com/Gubeommo/TIL/assets/86589565/4985654d-40e6-4c1a-ad0b-b056f7fe1561)
+
+조금만 기다리다 보면
+
+
+
 

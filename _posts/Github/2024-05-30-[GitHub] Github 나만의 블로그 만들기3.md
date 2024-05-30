@@ -1,6 +1,6 @@
 ---
 title: Github 나만의 블로그 만들기(with chirpy)-3
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2024-05-30  +09:00
 categories: [Tech, Github]
 tags:
   [
@@ -43,7 +43,7 @@ tags: [TAG]
 ---
 ```
 
-참고로 `date` 요소에는 마지막에 `YYYY-MM-DD HH:MM:SS +09:00` 으로해주자 
+참고로 `date` 요소에는 마지막에 `YYYY-MM-DD +09:00` 으로해주자 
 
 그외로도 자주 쓰는 요소가
 ```yaml

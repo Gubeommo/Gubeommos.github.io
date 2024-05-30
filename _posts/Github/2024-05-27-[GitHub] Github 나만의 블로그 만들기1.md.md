@@ -1,6 +1,6 @@
 ---
 title: Github 나만의 블로그 만들기(with chirpy)-1
-date: YYYY-MM-DD HH:MM:SS +09:00
+date: 2024-05-27 +09:00
 categories: [Tech, Github]
 tags:
   [
